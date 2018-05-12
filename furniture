@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ 
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<link type="text/css" rel="stylesheet" href="blog.css"/>
+    <title><strong> COMMANDE  PRODUITS  </strong></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head> 
+
+  <body style="background-image:https://pbs.twimg.com/media/Db4weMFX0AA8QD7.jpg" bgcolor="black" font color="LightSkyBlue" >
+  <p id="example1" {
+    background: url(preloader.gif) right bottom no-repeat, url(Gif output_8o6DIe.gif) left top repeat;> </p>
+  
+  <div id="intro">
+    <p class="intro"> <marquee> Welcome to the furniture website / Bienvenue sur le site du meuble ! </marquee></p>
+</div>
+<p class="cursive"> Meubles fabriqués en  <span class="b">France ! </span>avec du bois issu des forêts gérées durablement </p>
+<p class="cursive" id="c">
+   N'hésitez pas à m'écrire ! 
+   slibre2@hotmail.fr 
+</p> 
+<p id="d">
+   Salon Alsace !
+   <img src="https://www.beauxmeublespaschers.com/288-tm_thickbox_default/table-basse-merisier-1-tiroir-1-niche-67351.jpg"
+   width="400" height="400">
+   <img src="https://www.beauxmeublespaschers.com/2759-tm_thickbox_default/ensemble-meuble-tv-et-table-basse-merisier.jpg" 
+   alt="alsace" width="400" height="400" >
+   </p> 
+   
+  <nav>
+  <div style="background-color:beige ;color:black";>
+
+
+    <p class="table"> TABLE 
+	<img src="https://www.beauxmeublespaschers.com/5451-tm_thickbox_default/table-haute-de-cuisine-carree-plateau-verre-135-cm.jpg"
+	width=400" height="400">
+	<img src="http://www.aubry-gaspard.com/client/gfx/photos/produit/zoom/MTA1620_104068.jpg" alt="table" width="400" height="400"> </p>
+	
+    <p classe="chaise" >  CHAISE et TABOURETS 
+	<img src="http://designindustrial.weebly.com/uploads/1/4/1/3/14133808/9879816_orig.jpg" width="400" height="400">
+	<img src="http://designindustrial.weebly.com/uploads/1/4/1/3/14133808/3150047_orig.jpg" width="400" height="400"></p>
+	
+    <p class="armoire">  ARMOIRE 
+	<img src="http://designindustrial.weebly.com/uploads/1/4/1/3/14133808/8475773_orig.jpg" width="400" height="400"></p>
+	
+	<p class="lit">  LIT & CHAMBRE  
+	<img src="https://www.beauxmeublespaschers.com/741-tm_thickbox_default/chambre-complete-lit-140-armoire-4-portes-chevet-blanc-40140.jpg"
+	width="400" height="400"></p>
+	
+	<h1><span><button class="contact me" > Contact Me</button></span></h1>
+<div class="section">
+  <h1><span>My Media</span></h1>
+  <iframe height="150" width="300" src="https://www.youtube.com/embed/Q6_5InVJZ88" allowfullscreen frameborder="0"></iframe>
+        </div>
+	</div>
+	</nav>
+	<footer> 
+	</footer>
+<p>Click the button to get your coordinates.</p>
+
+<button><a href="http://designindustrial.weebly.com/contact.html"> CONTACT ME ! </a></button>
+
+<p id="demo">
+
+</p>
+  </body>
+</html>
+
